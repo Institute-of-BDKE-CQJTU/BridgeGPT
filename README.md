@@ -26,7 +26,7 @@ gradio==3.37.0
 
 ### 使用
 ```shell
-./web_demo.sh
+python inference.py --base=path --lora_model=lora_model_dic
 ```
 
 ## 声明
